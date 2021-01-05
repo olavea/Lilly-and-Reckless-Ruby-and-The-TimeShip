@@ -21,7 +21,7 @@
     "@mdx-js/mdx": "1.5.5",
     "@mdx-js/react": "1.5.5",
     "@stripe/stripe-js": "^1.0.2",
-    "axios": "0.19.2",
+    "axios": "0.21.1",
     "blockstack": "19.3.0",
     "classnames": "2.2.6",
     "date-fns": "^2.10.0",
