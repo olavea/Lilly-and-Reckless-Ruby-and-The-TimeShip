@@ -34,7 +34,7 @@
     "gatsby-plugin-react-helmet": "3.1.21",
     "gatsby-source-filesystem": "2.1.47",
     "gatsby-transformer-remark": "2.6.49",
-    "immer": "^5.3.6",
+    "immer": "^9.0.6",
     "localforage": "^1.7.3",
     "lodash": "4.17.15",
     "query-string": "^6.11.0",
